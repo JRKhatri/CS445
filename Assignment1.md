@@ -7,5 +7,8 @@
 ![git log](https://github.com/JRKhatri/CS445/blob/main/git_log.png)
 ![git checkout](https://github.com/JRKhatri/CS445/blob/main/checkout_oldversion.png)
 
+## Day 1 lab *continue*
+Below link is of **tag** command.
+
 
 
