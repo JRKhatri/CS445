@@ -9,6 +9,7 @@
 
 ## Day 1 lab *continue*
 Below link is of **tag** command.
+![git tag](https://github.com/JRKhatri/CS445/blob/main/tag_commit.png)
 
 
 
