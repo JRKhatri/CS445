@@ -4,18 +4,17 @@
 ![git init snap](https://github.com/JRKhatri/CS445/blob/main/lab1/git_init.png)
 2. *git status*
 ![git status snap](https://github.com/JRKhatri/CS445/blob/main/lab1/git_status.png)
+3. *git add*
 ![git add](https://github.com/JRKhatri/CS445/blob/main/lab1/git_add.png)
-3. *git commit*
+4. *git commit*
 ![git commit](https://github.com/JRKhatri/CS445/blob/main/lab1/git_commit.png)
-4. *git diff*
+5. *git diff*
 ![git diff](https://github.com/JRKhatri/CS445/blob/main/lab1/git_diff.png)
-5. *git log*
+6. *git log*
 ![git log](https://github.com/JRKhatri/CS445/blob/main/lab1/git_log.png)
-6. *git checkout*
+7. *git checkout*
 ![git checkout](https://github.com/JRKhatri/CS445/blob/main/lab1/checkout_oldversion.png)
-
-
-7. *git tag*
+8. *git tag*
 ![git tag](https://github.com/JRKhatri/CS445/blob/main/lab1/tag_commit.png)
 
 _Below  are the exercise of_ **undoing local,staged and committed changes and reset** _done on the git_
