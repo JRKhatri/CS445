@@ -25,7 +25,7 @@ _Below  are the exercise of_ **undoing local,staged and committed changes and re
 ![git restore staged](https://github.com/JRKhatri/CS445/blob/main/lab1/restore_beforeCommit.png)
 * _git revert_
 ![git revert commit](https://github.com/JRKhatri/CS445/blob/main/lab1/revert_commit.png)
-* _git reset
+* _git reset_
 ![git reset](https://github.com/JRKhatri/CS445/blob/main/lab1/resert_commit.png)
 *  _git commit-amend_
  ![git commit amend](https://github.com/JRKhatri/CS445/blob/main/lab1/updating_lastCommit.png)
