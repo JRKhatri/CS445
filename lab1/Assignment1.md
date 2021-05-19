@@ -21,7 +21,7 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 * ![git resert](https://github.com/JRKhatri/CS445/blob/main/resert_commit.png)
 
 **ordered list**
-1. ![git updating commit](https://github.com/JRKhatri/CS445/blob/main/updating_lastCommit.png)
+1. ![git updating commit](https://github.com/JRKhatri/CS445/blob/main/lab1/updating_lastCommit.png)
 
 
 #### link for *branching, merge, conflict, and fix conflict*
