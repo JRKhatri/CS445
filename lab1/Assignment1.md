@@ -16,7 +16,7 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 * Item 1
 * ![git restore](https://github.com/JRKhatri/CS445/blob/main/restore_beforeworking.png)
 * Item 2 
-* ![git restore staged](https://github.com/JRKhatri/CS445/blob/main/restore_beforeCommit.png)
+* ![git restore staged](https://github.com/JRKhatri/CS445/blob/main/lab1/restore_beforeCommit.png)
 * ![git revert commit](https://github.com/JRKhatri/CS445/blob/main/lab1/revert_commit.png)
 * ![git resert](https://github.com/JRKhatri/CS445/blob/main/lab1/resert_commit.png)
 
