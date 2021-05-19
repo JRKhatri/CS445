@@ -38,6 +38,9 @@ _**clone, remote, Push, pull, fetch **_
 ![push](https://github.com/JRKhatri/CS445/blob/main/lab1/push.png)
 ![remote](https://github.com/JRKhatri/CS445/blob/main/lab1/remote.png)
 
+![fetch](https://github.com/JRKhatri/CS445/blob/main/lab1/fetch.png)
+
+
 
 
 
