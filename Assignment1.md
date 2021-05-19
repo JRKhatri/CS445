@@ -28,8 +28,7 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 ![branch](https://github.com/JRKhatri/CS445/blob/main/branching.png)
 ![merge](https://github.com/JRKhatri/CS445/blob/main/merge.png)
 ![conflict1](https://github.com/JRKhatri/CS445/blob/main/create_conflict.png)
-![conflict2](
-
+![conflict2](https://github.com/JRKhatri/CS445/blob/main/conflict_sample.png)
 
 
 
