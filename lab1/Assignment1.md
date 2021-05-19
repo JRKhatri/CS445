@@ -41,20 +41,19 @@ _Below are exercise for_ *branching, merge, conflict, and fix conflict*
 ![conflict1](https://github.com/JRKhatri/CS445/blob/main/lab1/create_conflict.png)
 * _git conflict_
 ![conflict2](https://github.com/JRKhatri/CS445/blob/main/lab1/conflict_sample.png)
-*_git fix conflict_
+* _git fix conflict_
 ![fix conflict](https://github.com/JRKhatri/CS445/blob/main/lab1/fixMerge_conflict.png)
 
 #### Remote Repository Exercise
-_clone, remote, Push, pull, fetch_
-*git clone*
+* _git clone_
 ![clone](https://github.com/JRKhatri/CS445/blob/main/lab1/clone.png)
-*git push*
+* _git push_
 ![push](https://github.com/JRKhatri/CS445/blob/main/lab1/push.png)
-*git remote*
+* _git remote_
 ![remote](https://github.com/JRKhatri/CS445/blob/main/lab1/remote.png)
-*git fetch*
+* _git fetch_
 ![fetch](https://github.com/JRKhatri/CS445/blob/main/lab1/fetch.png)
-*git pull*
+* _git pull_
 ![pull](https://github.com/JRKhatri/CS445/blob/main/lab1/pull.png)
 
 
