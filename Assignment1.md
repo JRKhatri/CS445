@@ -14,7 +14,9 @@ Below link is of **tag** command.
 _Here are the_ **undoing local,staged and committed changes** _done on the git_
 
 * Item 1
-* 
+* ![git restore](https://github.com/JRKhatri/CS445/blob/main/restore_beforeworking.png)
+* Item 2 
+* ![git restore staged]
  
 
 
