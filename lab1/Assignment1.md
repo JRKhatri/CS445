@@ -28,25 +28,33 @@ _Below  are the exercise of_ **undoing local,staged and committed changes and re
 ![git revert commit](https://github.com/JRKhatri/CS445/blob/main/lab1/revert_commit.png)
 * _git reset
 ![git reset](https://github.com/JRKhatri/CS445/blob/main/lab1/resert_commit.png)
-*  _git update_
- ![git updating commit](https://github.com/JRKhatri/CS445/blob/main/lab1/updating_lastCommit.png)
+*  _git commit-amend_
+ ![git commit amend](https://github.com/JRKhatri/CS445/blob/main/lab1/updating_lastCommit.png)
 
 
-#### link for *branching, merge, conflict, and fix conflict*
+_Below are exercise for_ *branching, merge, conflict, and fix conflict*
+* _git branch_
 ![branch](https://github.com/JRKhatri/CS445/blob/main/lab1/branching.png)
+* _git merge_
 ![merge](https://github.com/JRKhatri/CS445/blob/main/lab1/merge.png)
+* _git conflict_
 ![conflict1](https://github.com/JRKhatri/CS445/blob/main/lab1/create_conflict.png)
+* _git conflict_
 ![conflict2](https://github.com/JRKhatri/CS445/blob/main/lab1/conflict_sample.png)
-![fixconflict](https://github.com/JRKhatri/CS445/blob/main/lab1/fixMerge_conflict.png)
+*_git fix conflict_
+![fix conflict](https://github.com/JRKhatri/CS445/blob/main/lab1/fixMerge_conflict.png)
 
-#### Remote Repository
+#### Remote Repository Exercise
 _clone, remote, Push, pull, fetch_
-*clone*
+*git clone*
 ![clone](https://github.com/JRKhatri/CS445/blob/main/lab1/clone.png)
+*git push*
 ![push](https://github.com/JRKhatri/CS445/blob/main/lab1/push.png)
+*git remote*
 ![remote](https://github.com/JRKhatri/CS445/blob/main/lab1/remote.png)
-
+*git fetch*
 ![fetch](https://github.com/JRKhatri/CS445/blob/main/lab1/fetch.png)
+*git pull*
 ![pull](https://github.com/JRKhatri/CS445/blob/main/lab1/pull.png)
 
 
