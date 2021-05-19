@@ -33,6 +33,8 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 
 #####Remote Repository
 _**clone, remote, Push, pull, fetch **_
+*clone*
+
 
 
 
