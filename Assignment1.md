@@ -11,5 +11,12 @@
 Below link is of **tag** command.
 ![git tag](https://github.com/JRKhatri/CS445/blob/main/tag_commit.png)
 
+_Here are the_ **undoing local,staged and committed changes** _done on the git_
+
+* Item 1
+* 
+ 
+
+
 
 
