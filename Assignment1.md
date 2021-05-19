@@ -24,6 +24,10 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 1. ![git updating commit](https://github.com/JRKhatri/CS445/blob/main/updating_lastCommit.png)
 
 
+#### link for *branching, merge, conflict, and fix conflict*
+
+
+
 
  
 
