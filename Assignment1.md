@@ -26,6 +26,8 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 
 #### link for *branching, merge, conflict, and fix conflict*
 ![branch](https://github.com/JRKhatri/CS445/blob/main/branching.png)
+![merge](https://github.com/JRKhatri/CS445/blob/main/merge.png)
+
 
 
 
