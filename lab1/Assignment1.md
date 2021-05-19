@@ -31,8 +31,8 @@ _Here are the_ **undoing local,staged and committed changes** _done on the git_
 ![conflict2](https://github.com/JRKhatri/CS445/blob/main/conflict_sample.png)
 ![fixconflict](https://github.com/JRKhatri/CS445/blob/main/fixMerge_conflict.png)
 
-#####Remote Repository
-_**clone, remote, Push, pull, fetch **_
+#### Remote Repository
+_clone, remote, Push, pull, fetch_
 *clone*
 ![clone](https://github.com/JRKhatri/CS445/blob/main/lab1/clone.png)
 ![push](https://github.com/JRKhatri/CS445/blob/main/lab1/push.png)
