@@ -4,7 +4,7 @@
 ![git add](https://github.com/JRKhatri/CS445/blob/main/git_add.png)
 ![git commit](https://github.com/JRKhatri/CS445/blob/main/git_commit.png)
 ![git diff](https://github.com/JRKhatri/CS445/blob/main/git_diff.png)
-![git log](https://github.com/JRKhatri/CS445/blob/main/git_log.png)
+![git log](https://github.com/JRKhatri/CS445/blob/main/lab1/git_log.png)
 ![git checkout](https://github.com/JRKhatri/CS445/blob/main/lab1/checkout_oldversion.png)
 
 ## Day 1 lab *continue*
