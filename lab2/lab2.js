@@ -5,3 +5,4 @@ console.log("Practice for Push");
 console.log("Change made by developer");
 //this is another change made by other developer
 console.log("....@@@.......")
+//this is changed for fetch
