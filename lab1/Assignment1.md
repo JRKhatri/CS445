@@ -55,6 +55,15 @@ _Below are exercise for_ *branching, merge, conflict, and fix conflict*
 * _git pull_
 ![pull](https://github.com/JRKhatri/CS445/blob/main/lab1/pull.png)
 
+##### Exercise 3: Practice with all the third party repositories commands from the slides:
+1. git_clone
+![clone]()
+2. git_remote
+![remote]()
+4. git_pull
+![pull]()
+5. git_merge
+![merge]()
 
 
 
