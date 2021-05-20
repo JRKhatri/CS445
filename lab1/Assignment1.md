@@ -63,7 +63,7 @@ _Below are exercise for_ *branching, merge, conflict, and fix conflict*
 4. git_pull
 ![pull]()
 5. git_merge
-![merge]()
+![merge](https://github.com/JRKhatri/CS445/blob/main/lab1/merge.png)
 
 
 
